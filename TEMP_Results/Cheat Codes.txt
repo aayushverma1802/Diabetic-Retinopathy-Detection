@@ -1,0 +1,5 @@
+Project New York :- Densenet 201 (Test accuracy: 0.7842)
+Project Chole Bhature :- Inception (Test accuracy: 0.8005)
+Project Mr. Noida :- CNN (Test Accuracy: 0.6858)
+Project Rocky :- VGG16  (Test accuracy: 0.7732)
+Project Baby Driver :- VIT32(Not required) (The Testing is not complete)
