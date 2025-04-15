@@ -4,7 +4,7 @@ from tensorflow.keras.preprocessing import image
 import numpy as np
 import os
 from werkzeug.utils import secure_filename
-from PIL import Image
+from PIL import Image 
 
 # Initialize the Flask application
 app = Flask(__name__)
